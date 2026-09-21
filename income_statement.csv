@@ -1,0 +1,20 @@
+metric,fy2025,fy2024,yoy_change_or_reading,note
+ASM gold aggregation service charges,568341867,,n/d,
+Assay services,340426487,,n/d,
+Inspection fees (large-scale mining),41853837,,n/d,
+Registration and licensing fees,30770848,,n/d,
+Commission on diamond exports,1622320,,n/d,
+Diamond Licensed Buying Company fees,770700,,n/d,
+Total non-tax revenue,983786059,307786982,2.1963212108821417,"Reported total (GH₵983,962,564) is used on the Overview tab; the six itemised lines above are the disclosed breakdown and reconcile to it. Finance income is reported separately, not folded into this subtotal."
+"Finance income (separate line, not in non-tax revenue subtotal)",35337378,357444,97.86129855306007,
+Government subvention (revolving trade capital),4547700000,,n/a,"Seed capital for gold purchasing, trading and export operations; not revenue in the trading sense, but drives the overall surplus."
+Total revenue (as reported),5554000000,308140000,17.024274680340106,"As reported in the audited statements; not the arithmetic sum of the lines above in every press summary, so shown as a separate reported figure."
+Compensation of employees,37381334,,n/d,
+Use of goods and services,28338703,,n/d,
+Specialised expenses,38915495,,n/d,
+Taskforce deployment,14294116,,n/d,
+Corporate Social Responsibility (CSR),11248172,,n/d,
+Special Intervention Programme (SIP),5263873,,n/d,
+Total expenditure (as reported),109590000,129660000,-0.15478944932901434,"The six categories above sum to roughly GH₵135.4m in some press tallies vs GH₵109.59m reported; treat the itemised lines as partial disclosure, not a full reconciliation. Flagged for follow-up against the primary audited PDF."
+Operational (non-tax) surplus,909533437,,,"Formula check: non-tax revenue plus finance income less total expenditure. Reported figure is GH₵909,713,825 — this cell should land within rounding of it."
+Overall surplus (incl. government subvention),5457413825,185342031,28.44509561892089,"As reported: >2,800% YoY growth is GoldBod's own framing, driven almost entirely by the GH₵4.5477bn government subvention, not by operating performance."
